@@ -17,7 +17,7 @@ Highly modifiable and modular
 * Rubikow
 * ONSVRG
 * Scandal
-* Fowleri
+* fowleri
 * LethalHotCocoa
 
 -------------------------------------
